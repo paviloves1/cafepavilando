@@ -1,0 +1,113 @@
+
+
+.head{
+/* 	background-image: url("head.jpg");
+	background-repeat: no-repeat;
+	width: 70%;
+    height: 800px;
+	background-position: center top;
+	position: absolute; */
+	text-align: center;
+	font-family: calibri;
+	color: white;
+
+}
+
+.box1
+{
+	background-image: url("americano.jpg");
+	background-size: 100% 100%;
+	border-radius: 4px;
+	max-width: 350px;
+	background-color: gray;
+	border: 1px solid black;
+	font-family: calibri;
+	float: left;
+	margin: 20px;
+	padding: 15px;
+	left: 30px;
+	top: 200px;
+	position: absolute;
+}
+.box2
+{
+	background-image: url("cappuccino.jpg");
+	background-size: 50%;
+	border-radius: 4px;
+	max-width: 350px;
+	background-color: gray;
+	border: 1px solid black;
+	font-family: calibri;
+	float: center;
+	margin: 20px;
+	padding: 15px;
+	left: 470px;
+	top: 200px;
+	position: absolute;
+}
+.box3
+{
+	background-image: url("espresso1.jpg");
+	border-radius: 4px;
+	max-width: 350px;
+	background-color: gray;
+	border: 1px solid black;
+	font-family: calibri;
+	float: left;
+	margin: 20px;
+	padding: 15px;
+	left: 910px;
+	top: 200px;
+	position: absolute;
+}
+#chicken{
+	width: 150px;
+	text-align: center;
+	background-color: pink;
+	border: 1px solid black;
+	font-family: calibri;
+	padding-top: 0px;
+	position: absolute;
+	top: 0px;
+	left: 229px;
+	float: left;
+}
+#beef{
+	width: 150px;
+	color: white;
+	text-align: center;
+	background-color: red;
+	border: 1px solid black;
+	font-family: calibri;
+	padding-top: 0px;
+	position: absolute;
+	top: 0px;
+	left: 229px;
+	float: center;
+}
+#sushi{
+	width: 150px;
+	text-align: center;
+	background-color: yellow;
+	border: 1px solid black;
+	font-family: calibri;
+	padding-top: 0px;
+	position: absolute;
+	top: 0px;
+	left: 229px;
+	float: center;
+}
+body {
+	background-image: url("coffee.jpg"); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+/* nav {
+	width: 100%;
+	display: block;
+	position: absolute;
+	background-color: #a6430a; */
+}
+
+
